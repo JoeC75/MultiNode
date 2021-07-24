@@ -1,0 +1,2 @@
+The plan is for this to be used to automate the setup process for two nodes on cloudlab (Observer and Webserver)
+Webserver should have apache which is where the apache code shall come from, Observer will have NFS
